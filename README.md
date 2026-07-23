@@ -30,5 +30,3 @@ fixed the funny fucking error causing the 'install' command to literally call in
 added a custom patch system that doesn't require a specific patcher, just does it
 thats basically it, but i also made it oragnizable in directories and a bit more that im lazy to list (note: i fucking hate copilot auto commit message) 
 
-# for me:
-STUPID ASS FUCKER DON'T FORGET TO PUT make DESTDIR="$DESTDIR" install ALRIGHT???
